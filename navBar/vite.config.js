@@ -10,6 +10,7 @@ export default defineConfig({
     tailwindcss(),
     
   ],
+  base: "/NavBar",
   server:{
     port:3000
   }
